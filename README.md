@@ -1,5 +1,8 @@
 # Sales-Report-Analysis---Excel
-
+Sales Report Analysis (Excel) 
+ Perform the cleaning and manipulating the data to improve the data quality 
+ To develop the report used for the function like logical, date and time functions, 
+ Lookup (Hlookup, Vlookup, Xlookup) 
 
 Sample Insights
 Women are more likely to buy more than men= 65%^
